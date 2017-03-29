@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_c69cc0d1f09666bab93e1b33bb302a272f058531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="963d22e40c6a6dd21a8edc2eddf2c94bbbe4754e">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a2fffccdea412efd1e9345f64b61e78a1070a87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_cb544fccc4957489c2075fd824d9aae59787ead2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_3948b353509a5f802c5d1812ae2d97e8802ad30c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d68b02667ce144a44e27c6d688554e93251a5115/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_8ffe70aad391d0274009bc566e3ec6fe12ded61c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_c8686f23fedcf224a1f13856d20c431c6631cc5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_28909b385f0c9e7229fda4916f8ede05834ec249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_cdda8d74927a27eab431a95bf1f03b1fba1678f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_6a3fa423a31fffc0cb0d5ab56d8e60f9ad3cdaad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_12a993e22bdae5718f2cfcbdc02a49769b6ab0bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6743d22f9889ef3b4bcb78b44b217e3390f9e879">
+        <dex dex="/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_25506b6ebe2d64f2afc51f01361a14e907e10d5f/classes.dex" />
+    </item>
+
+</items>

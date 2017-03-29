@@ -1,0 +1,7 @@
+#Tue Mar 28 10:31:47 MSK 2017
+base.0=/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a2fffccdea412efd1e9345f64b61e78a1070a87
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_25506b6ebe2d64f2afc51f01361a14e907e10d5f/classes.dex
+base.1=/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_25506b6ebe2d64f2afc51f01361a14e907e10d5f
+file.0=/home/knp/AndroidStudioProjects/ManSleep/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a2fffccdea412efd1e9345f64b61e78a1070a87/classes.dex

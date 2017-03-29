@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:defaultValue="wwwww"
+        android:title="Мелодия"
+        android:key="pref_song"
+        android:summary="">
+
+    </Preference>
+    <SwitchPreference
+        android:defaultValue="false"
+        android:title="Вибрация"
+        android:key="pref_vibr" />
+    <EditTextPreference
+        android:defaultValue="0"
+        android:selectAllOnFocus="true"
+        android:title="Интервал"
+        android:key="pref_vibr_int"
+        android:singleLine="true" />
+    <RingtonePreference
+        android:defaultValue=""
+        android:title="Ringtone preference"
+        android:key="ringtone_preference_1" />
+</PreferenceScreen>
